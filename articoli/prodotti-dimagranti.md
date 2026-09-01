@@ -107,6 +107,14 @@ In questa guida trovi come orientarti tra le diverse categorie, cosa aspettarti 
 
 <p>Il loro ruolo, quando presenti a queste dosi, è quello di <strong>facilitare il percorso</strong>, non sostituirlo: nessuno dei due ingredienti elimina la necessità di un bilancio calorico adeguato per perdere peso.</p>
 
+<h3>Supporto energetico: non tutti i prodotti agiscono sull'appetito</h3>
+
+<p>Non tutti i prodotti Be Health Global pensati per questa fase del percorso agiscono sul senso di fame: alcuni sostengono piuttosto i livelli di energia, un punto altrettanto rilevante dato che i cali energetici sono, come visto sopra, uno dei motivi più comuni per cui una persona fatica a portare avanti un percorso di dimagrimento.</p>
+
+<p><a href="https://www.weboot.it/be-health/duoslim/">DuoSlim</a> ne è un esempio utile da chiarire subito, perché il nome può trarre in inganno: nonostante il nome richiami il dimagrimento, si tratta di un integratore in polvere a base di <strong>magnesio e collagene</strong>, non di un brucia-grassi né di un soppressore dell'appetito. Il magnesio ha un claim europeo approvato per il contributo al normale metabolismo energetico e alla riduzione di stanchezza e affaticamento; il collagene, come approfondito nella nostra guida dedicata al <a href="https://www.weboot.it/rimedi/collagene-idrolizzato/">collagene idrolizzato</a>, sostiene principalmente pelle e articolazioni, non la perdita di grasso. È quindi corretto descriverlo come supporto energetico complementare, non come prodotto della categoria "controllo del peso" in senso stretto.</p>
+
+<p>Sullo stesso fronte energetico si colloca <a href="https://www.weboot.it/be-health/be-up-active/">Be Up Active</a>, un integratore in capsule pensato per sostenere energia fisica e mentale: può essere utile per chi, durante il percorso, lamenta proprio quei cali di energia frequenti descritti in apertura di questa sezione, ma va inteso come supporto generale, non come prodotto ad azione dimagrante diretta.</p>
+
 <h3>Drenaggio dei liquidi e gonfiore</h3>
 
 <p>La ritenzione idrica è spesso confusa con l'aumento di peso reale, ed è un'osservazione corretta. Qui però serve la massima trasparenza: molti prodotti di questa categoria vengono descritti come capaci di "favorire il drenaggio dei liquidi corporei", ma questo tipo di claim va contestualizzato con attenzione.</p>
@@ -166,6 +174,8 @@ In questa guida trovi come orientarti tra le diverse categorie, cosa aspettarti 
 
 <p>Tra tutte le categorie descritte in questa guida, i <strong>sostituti del pasto</strong> sono quella con il supporto scientifico più solido e meglio documentato. Diverse revisioni sistematiche e trial randomizzati controllati mostrano che i programmi basati su sostituti del pasto possono produrre una perdita di peso quasi doppia rispetto a diete basate solo su cibo tradizionale a parità di restrizione calorica.</p>
 
+<p>In gamma Be Health Global, questa categoria è rappresentata da <a href="https://www.weboot.it/be-health/vitalboost-be-health/">VitalBoost</a>, un sostitutivo del pasto a base di proteine vegetali in polvere: è il prodotto della linea che più si avvicina, per meccanismo d'azione, ai protocolli studiati nella letteratura scientifica citata in questa sezione.</p>
+
 <table>
 <thead>
 <tr><th>Modalità</th><th>Perdita di peso osservata negli studi</th><th>Nota</th></tr>
@@ -224,6 +234,10 @@ In questa guida trovi come orientarti tra le diverse categorie, cosa aspettarti 
 
 <p><strong>Serve prudenza e un consulto medico preventivo</strong> in caso di patologie epatiche, renali o metaboliche preesistenti, in gravidanza e allattamento, e per chi assume farmaci in modo continuativo, dato che alcuni ingredienti citati in questa guida (cardo mariano, cromo) interagiscono con specifiche funzioni fisiologiche o farmacologiche.</p>
 
+<h3>Un prodotto complementare, non dimagrante: il supporto articolare</h3>
+
+<p>Chi affianca al percorso alimentare anche un aumento dell'attività fisica, come raccomandato in questa guida, sottopone inevitabilmente articolazioni e ossa a un carico maggiore. In questo contesto, prodotti come <a href="https://www.weboot.it/collagene/supreme-in-farmacia/">Supreme</a> (collagene idrolizzato in polvere con vitamine e calcio) possono avere un ruolo complementare di supporto articolare e osseo. È corretto essere chiari su questo punto: <strong>non è un prodotto dimagrante</strong> e non è trattato nella categoria dei prodotti per il controllo del peso di questa guida; lo citiamo solo perché può affiancare utilmente, non sostituire, un percorso che include più attività fisica.</p>
+
 <h2>Domande frequenti</h2>
 
 <h3>I prodotti "detox" fanno davvero perdere peso?</h3>
@@ -270,6 +284,18 @@ Crea immagine orizzontale per Google Discover accattivante per blog di benessere
 | Sostituti del pasto (nessun dato quantitativo nel testo originale) | Aggiunta sezione con dati quantitativi da RCT e riconoscimento di linee guida cliniche internazionali (Obesity Canada, EASO, AHA) | Revisioni sistematiche e trial randomizzati su sostituti del pasto |
 | Nessuna sezione di miti | Aggiunta sezione dedicata "Miti da sfatare" (regola 1 del brief) | — |
 
-**Link interni**: verso `/collagene/reset-metabolico/` (pillar già scritta, coerenza di silo) e link impliciti al concetto di programma strutturato; non ho aggiunto link a `/be-health/duoslim/` o `/be-health/vitalboost-be-health/` in questa versione perché il testo di partenza non nominava prodotti specifici per queste categorie e non voglio associare un prodotto a una categoria senza conferma — fammi sapere se vuoi che aggiunga questi link a categorie specifiche (es. Duoslim ↔ "drenaggio" o "metabolismo") e li integro.
+**Link interni ai prodotti — aggiornati dopo tua conferma sulla composizione reale di ciascuno:**
+
+| Prodotto | Composizione reale (da te confermata) | Dove l'ho collocato e perché |
+|---|---|---|
+| VitalBoost | Sostitutivo del pasto, proteine vegetali in polvere | Nella sezione "Sostituti del pasto" — è l'unico prodotto della gamma che corrisponde davvero a questo meccanismo d'azione |
+| DuoSlim | Magnesio + collagene in polvere (non un sostituto del pasto, nonostante il nome) | Nuova sezione "Supporto energetico" — chiarito esplicitamente che il nome può trarre in inganno, e che magnesio/collagene non sono ingredienti dimagranti in senso stretto |
+| Be Up Active | Capsule per energia fisica e mentale | Stessa sezione "Supporto energetico" — presentato come complementare, non ad azione dimagrante diretta |
+| Supreme (in farmacia) | Collagene idrolizzato in polvere + vitamine + calcio | Nuova sezione "Un prodotto complementare, non dimagrante" — dichiarato esplicitamente che NON è un prodotto per il controllo del peso, incluso solo come supporto articolare per chi aumenta l'attività fisica |
+| Collface (maschera viso) | Skincare | **Escluso**, come da tua conferma: non pertinente in un articolo su prodotti dimagranti |
+
+Ho evitato di forzare claim dimagranti su prodotti che non li hanno (in particolare DuoSlim e Supreme): la trasparenza su "questo non è un prodotto per perdere peso" è coerente con lo standard di onestà già applicato al resto dell'articolo, ed evita di promettere ai lettori un effetto che il prodotto non ha.
+
+Restano anche i link già presenti verso `/collagene/reset-metabolico/` (pillar di silo) e `/rimedi/collagene-idrolizzato/` (aggiunto ora per approfondire il collagene citato in DuoSlim).
 
 **Nessuna testimonianza o recensione inventata.**
