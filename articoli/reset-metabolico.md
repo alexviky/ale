@@ -2,6 +2,8 @@
 
 Pillar content per il silo Be Health di weboot.it — target URL: `https://www.weboot.it/collagene/reset-metabolico/`
 
+**Aggiornamento**: `https://www.weboot.it/be-health/reset-metabolico-be-health/` verrà reindirizzata (301) verso questa pagina, che diventa così l'unica pillar sul Reset Metabolico. Nessun link reciproco da gestire: il problema di cannibalizzazione segnalato è risolto.
+
 **Nota importante**: il testo di partenza forniva già prodotti specifici (My Detox Be Health, Rei Diet, Rei Dren) e una call-to-action su WhatsApp. Come da istruzioni, li ho **preservati e integrati**, ma ho corretto le affermazioni non supportate dalla scienza (es. "brucia-grassi", "accelera il metabolismo a riposo", "drena i liquidi in eccesso", "programma scientificamente testato", "rinforza il sistema immunitario"), sostituendole con un framing onesto basato sull'evidenza reale di ciascun ingrediente citato. Il fact-checking è dettagliato nelle note finali.
 
 ---
@@ -298,6 +300,6 @@ Crea immagine orizzontale per Google Discover accattivante per blog di benessere
 
 **Ingrediente con le evidenze più solide**: cardo mariano/silimarina (riconoscimento ufficiale UE dal 1998 per disturbi epatici, studi randomizzati controllati su NAFLD ed epatopatie).
 
-**Link interni**: da integrare con gli URL pertinenti della sitemap (es. `/be-health/prodotti-dimagranti/`, `/be-health/come-acquistare-prodotti-be-health/`, `/be-health/reset-metabolico-be-health/`, `/rimedi/stanchezza-cronica-rimedi/`) — non inseriti nel corpo HTML sopra per evitare di duplicare un'anchor verso una pagina gemella (`/be-health/reset-metabolico-be-health/`) senza prima sapere cosa contiene, dato che tratta un argomento molto simile a questo e rischia cannibalizzazione SEO. Consiglio di decidere tu quale delle due pagine deve essere quella "pillar" principale sul Reset Metabolico prima che io aggiunga il link reciproco.
+**Link interni**: inseriti nel corpo HTML verso `/be-health/prodotti-dimagranti/`, `/be-health/duoslim/`, `/be-health/come-acquistare-prodotti-be-health/` e `/rimedi/stanchezza-cronica-rimedi/`. Il rischio di cannibalizzazione con `/be-health/reset-metabolico-be-health/` segnalato in precedenza è risolto: quella pagina verrà reindirizzata (301) qui, quindi non serve alcun link reciproco né altra azione da parte mia — solo verificare, quando il redirect sarà attivo, che eventuali link esterni o interni che puntavano al vecchio URL continuino a funzionare correttamente.
 
 **Nessuna testimonianza o recensione inventata.**
